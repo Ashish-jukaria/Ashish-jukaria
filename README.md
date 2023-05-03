@@ -12,6 +12,6 @@
 <a href="https://github.com/Ashish-jukaria/flask">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish-jukaria&repo=flask" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Ashish-jukaria/StudyBud">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish-jukaria&repo=StudyBud" />
 </a>
