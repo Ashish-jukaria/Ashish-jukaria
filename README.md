@@ -13,6 +13,9 @@ I'm a Full Stack Developer with expertise in the MERN stack and Python, along wi
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
 
+### Profile Views 
+![](https://komarev.com/ghpvc/?username=Ashish-jukaria)
+
 ### 📈 GitHub Stats
 ![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashish-jukaria&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-jukaria&layout=compact&theme=radical)
